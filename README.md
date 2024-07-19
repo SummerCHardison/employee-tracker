@@ -1,4 +1,6 @@
 # employee-tracker
+
+#Description
 This application used SQL databases and tables to create a way for users to store information about the departments their buisness has, the roles the employees can play, and the employees they have hired. It was made using SQL, postgres, JavaScript, as well as npm packages for inquirer, postgres, and express. This application was made as a way for me to gain practice with SQL and databases, and to have an easy way to store information about employees.
 
 Note: you need to exit the application using ctrl c
