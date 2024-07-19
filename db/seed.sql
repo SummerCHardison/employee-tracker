@@ -1,3 +1,5 @@
+-- inserts placeholder values into the table to start off with data
+
 INSERT INTO department (name) VALUES
     ('finance'),
     ('HR');
